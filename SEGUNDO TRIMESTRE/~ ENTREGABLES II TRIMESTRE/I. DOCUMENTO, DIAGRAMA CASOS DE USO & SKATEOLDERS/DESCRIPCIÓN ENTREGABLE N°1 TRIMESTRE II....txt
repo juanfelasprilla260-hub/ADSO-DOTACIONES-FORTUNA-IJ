@@ -1,0 +1,3 @@
+ENTEGABLE N°1 TRIMESTRE II...
+
+Se evidencia el diagrama de casos de uso y documentación de casos de uso (formato de casos de uso extendido) de acuerdo con el refinamiento de requisitos.

@@ -1,0 +1,3 @@
+ENTEGABLE N°5 TRIMESTRE III...
+
+En el proyecto se evidencia la realización del diagrama de distribución usando el estándar UML 2.4.1 o superior, donde se muestra los nodos físicos, los artefactos desplegados en cada nodo y refleja los protocolos (HTTP, JDBC, API REST)

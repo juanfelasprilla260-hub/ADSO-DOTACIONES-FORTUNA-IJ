@@ -1,0 +1,3 @@
+ENTEGABLE N°7 TRIMESTRE III...
+
+En el proyecto se evidencia el uso de sistemas de control de versiones que demuestre capturas del repositorio, historial de commits y ramas.

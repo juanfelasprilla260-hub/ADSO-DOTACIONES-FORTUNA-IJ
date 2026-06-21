@@ -1,0 +1,3 @@
+ENTEGABLE N°6 TRIMESTRE III...
+
+Elaborar el prototipo navegable del software (HTML - CSS), que sea navegable, que use Bootstrap o Tailwind para darle diseño rápido y profesional.

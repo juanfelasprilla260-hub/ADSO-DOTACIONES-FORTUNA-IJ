@@ -1,0 +1,3 @@
+ENTEGABLE N°1 TRIMESTRE III...
+
+En el proyecto se evidencia la normalización del modelo relacional identificando las 3FN

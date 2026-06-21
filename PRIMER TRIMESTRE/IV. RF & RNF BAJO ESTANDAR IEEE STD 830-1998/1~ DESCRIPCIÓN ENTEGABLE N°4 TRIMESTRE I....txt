@@ -1,0 +1,3 @@
+ENTEGABLE N°4 TRIMESTRE I...
+
+Elaboración de los requerimientos funcionales y no funcionales bajo el estándar IEEE std 830-1998, IEEE 1233-1998, IEEE 29148:2018 o historias de Usuarios

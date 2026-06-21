@@ -1,0 +1,3 @@
+ENTEGABLE N°3 TRIMESTRE III...
+
+En el proyecto se evidencia el modelo relacional notación Crows Foot, no solo mostrar el diagrama, si no también donde señale llaves primarias y foráneas, incluir las reglas de integridad referencial

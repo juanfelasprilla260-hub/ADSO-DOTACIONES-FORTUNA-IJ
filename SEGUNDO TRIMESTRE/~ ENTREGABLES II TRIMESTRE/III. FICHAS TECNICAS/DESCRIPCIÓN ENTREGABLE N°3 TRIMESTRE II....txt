@@ -1,0 +1,3 @@
+ENTEGABLE N°3 TRIMESTRE II...
+
+Se desarrollaron formatos de fichas técnicas orientados a la estimación de costos en el ámbito de la infraestructura tecnológica, comprendiendo los componentes de hardware, software y arquitectura de redes, se efectuó un análisis comparativo de proveedores, considerando variables como costos, cantidades y especificaciones técnicas, se llevó a cabo un estudio del recurso humano requerido, en el cual se identificaron los roles necesarios, el tiempo estimado de dedicación y los costos asociados, ya sea bajo la modalidad de remuneración por hora o de salario mensual. Basado en esto se debe determinar el costo del proyecto.

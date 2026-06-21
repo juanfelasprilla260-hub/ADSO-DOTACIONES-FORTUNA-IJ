@@ -1,0 +1,3 @@
+ENTEGABLE N°4 TRIMESTRE III...
+
+Se evidencia el diagrama de clases del proyecto donde se ven las clases y relaciones usando el estándar UNL 2.4.1 o superior

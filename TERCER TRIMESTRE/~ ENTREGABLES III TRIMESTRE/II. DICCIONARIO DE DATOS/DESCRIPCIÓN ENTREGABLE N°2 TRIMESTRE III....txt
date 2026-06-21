@@ -1,0 +1,3 @@
+ENTEGABLE N°2 TRIMESTRE III...
+
+En el proyecto se evidencia el diccionario de datos con el siguiente formato Nombre de tabla, Nombre del campo, Tipo de dato, Longitud, Restricciones (PK, FK, NN, Unique), Descripción, generado directamente desde el motor de la base de datos u otras herramientas.
